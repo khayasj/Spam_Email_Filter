@@ -48,4 +48,4 @@ Open and run `SpamFilter.ipynb` in Jupyter or Google Colab. It includes:
 At the bottom of the notebook, input your own email content and the model will tell you if it's **Spam** or **Ham**.
 
 ## Author
-Your Name
+Shin Than Thar Aung
